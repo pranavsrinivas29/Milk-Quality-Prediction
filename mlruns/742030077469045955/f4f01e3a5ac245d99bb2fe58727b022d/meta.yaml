@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/pranavsrinivasvenkatesh/Projects/Data%20Science%20Projects/MilkQuality/mlruns/742030077469045955/f4f01e3a5ac245d99bb2fe58727b022d/artifacts
+deleted_time: 1755809885318
+end_time: 1755809673667
+entry_point_name: ''
+experiment_id: '742030077469045955'
+lifecycle_stage: deleted
+run_id: f4f01e3a5ac245d99bb2fe58727b022d
+run_name: capable-wolf-258
+run_uuid: f4f01e3a5ac245d99bb2fe58727b022d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755809673614
+status: 3
+tags: []
+user_id: pranavsrinivasvenkatesh

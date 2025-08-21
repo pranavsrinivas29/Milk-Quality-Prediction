@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/pranavsrinivasvenkatesh/Projects/Data%20Science%20Projects/MilkQuality/mlruns/742030077469045955/97498a6fedc043ffabd6f359f8472e0f/artifacts
+deleted_time: 1755722809840
+end_time: 1755722700528
+entry_point_name: ''
+experiment_id: '742030077469045955'
+lifecycle_stage: deleted
+run_id: 97498a6fedc043ffabd6f359f8472e0f
+run_name: suave-doe-839
+run_uuid: 97498a6fedc043ffabd6f359f8472e0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755722700431
+status: 3
+tags: []
+user_id: pranavsrinivasvenkatesh

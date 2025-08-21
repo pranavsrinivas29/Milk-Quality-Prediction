@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/pranavsrinivasvenkatesh/Projects/Data%20Science%20Projects/MilkQuality/mlruns/742030077469045955/fd3f244711d64f0db285ab7c4d27e939/artifacts
+deleted_time: 1755722809832
+end_time: 1755722788665
+entry_point_name: ''
+experiment_id: '742030077469045955'
+lifecycle_stage: deleted
+run_id: fd3f244711d64f0db285ab7c4d27e939
+run_name: silent-gull-735
+run_uuid: fd3f244711d64f0db285ab7c4d27e939
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755722788569
+status: 3
+tags: []
+user_id: pranavsrinivasvenkatesh

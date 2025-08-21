@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/pranavsrinivasvenkatesh/Projects/Data%20Science%20Projects/MilkQuality/mlruns/742030077469045955/2868c988dca445cf95cc9b76868f4f5e/artifacts
+deleted_time: 1755809885320
+end_time: 1755809673529
+entry_point_name: ''
+experiment_id: '742030077469045955'
+lifecycle_stage: deleted
+run_id: 2868c988dca445cf95cc9b76868f4f5e
+run_name: abrasive-loon-307
+run_uuid: 2868c988dca445cf95cc9b76868f4f5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755809673499
+status: 3
+tags: []
+user_id: pranavsrinivasvenkatesh

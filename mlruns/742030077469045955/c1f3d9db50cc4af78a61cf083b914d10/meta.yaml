@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/pranavsrinivasvenkatesh/Projects/Data%20Science%20Projects/MilkQuality/mlruns/742030077469045955/c1f3d9db50cc4af78a61cf083b914d10/artifacts
+deleted_time: 1755809885324
+end_time: 1755722830443
+entry_point_name: ''
+experiment_id: '742030077469045955'
+lifecycle_stage: deleted
+run_id: c1f3d9db50cc4af78a61cf083b914d10
+run_name: orderly-moth-52
+run_uuid: c1f3d9db50cc4af78a61cf083b914d10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755722830391
+status: 3
+tags: []
+user_id: pranavsrinivasvenkatesh

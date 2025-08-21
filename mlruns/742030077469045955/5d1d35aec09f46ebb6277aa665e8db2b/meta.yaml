@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pranavsrinivasvenkatesh/Projects/Data%20Science%20Projects/MilkQuality/mlruns/742030077469045955/5d1d35aec09f46ebb6277aa665e8db2b/artifacts
+end_time: 1755809927324
+entry_point_name: ''
+experiment_id: '742030077469045955'
+lifecycle_stage: active
+run_id: 5d1d35aec09f46ebb6277aa665e8db2b
+run_name: bold-colt-908
+run_uuid: 5d1d35aec09f46ebb6277aa665e8db2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755809927231
+status: 3
+tags: []
+user_id: pranavsrinivasvenkatesh

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/pranavsrinivasvenkatesh/Projects/Data%20Science%20Projects/MilkQuality/mlruns/742030077469045955/33511409453f436a91e5ed950f06a9e1/artifacts
+deleted_time: 1755809885325
+end_time: 1755722830340
+entry_point_name: ''
+experiment_id: '742030077469045955'
+lifecycle_stage: deleted
+run_id: 33511409453f436a91e5ed950f06a9e1
+run_name: thundering-skunk-569
+run_uuid: 33511409453f436a91e5ed950f06a9e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755722830289
+status: 3
+tags: []
+user_id: pranavsrinivasvenkatesh

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pranavsrinivasvenkatesh/Projects/Data%20Science%20Projects/MilkQuality/mlruns/742030077469045955/291baad1fe084b31af228d6769f91505/artifacts
+end_time: 1755809927085
+entry_point_name: ''
+experiment_id: '742030077469045955'
+lifecycle_stage: active
+run_id: 291baad1fe084b31af228d6769f91505
+run_name: orderly-turtle-33
+run_uuid: 291baad1fe084b31af228d6769f91505
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755809927034
+status: 3
+tags: []
+user_id: pranavsrinivasvenkatesh

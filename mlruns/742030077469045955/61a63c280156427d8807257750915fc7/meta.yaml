@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/pranavsrinivasvenkatesh/Projects/Data%20Science%20Projects/MilkQuality/mlruns/742030077469045955/61a63c280156427d8807257750915fc7/artifacts
+deleted_time: 1755809885321
+end_time: 1755809673498
+entry_point_name: ''
+experiment_id: '742030077469045955'
+lifecycle_stage: deleted
+run_id: 61a63c280156427d8807257750915fc7
+run_name: skittish-ox-690
+run_uuid: 61a63c280156427d8807257750915fc7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755809673465
+status: 3
+tags: []
+user_id: pranavsrinivasvenkatesh

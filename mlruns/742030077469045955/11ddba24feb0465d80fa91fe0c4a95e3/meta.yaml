@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/pranavsrinivasvenkatesh/Projects/Data%20Science%20Projects/MilkQuality/mlruns/742030077469045955/11ddba24feb0465d80fa91fe0c4a95e3/artifacts
+deleted_time: 1755722809839
+end_time: 1755722700430
+entry_point_name: ''
+experiment_id: '742030077469045955'
+lifecycle_stage: deleted
+run_id: 11ddba24feb0465d80fa91fe0c4a95e3
+run_name: learned-shrew-351
+run_uuid: 11ddba24feb0465d80fa91fe0c4a95e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755722700335
+status: 3
+tags: []
+user_id: pranavsrinivasvenkatesh

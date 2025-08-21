@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/pranavsrinivasvenkatesh/Projects/Data%20Science%20Projects/MilkQuality/mlruns/742030077469045955/282a49cc02df4e66a76972d8258c606c/artifacts
+deleted_time: 1755809885321
+end_time: 1755722830726
+entry_point_name: ''
+experiment_id: '742030077469045955'
+lifecycle_stage: deleted
+run_id: 282a49cc02df4e66a76972d8258c606c
+run_name: redolent-crab-483
+run_uuid: 282a49cc02df4e66a76972d8258c606c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755722830628
+status: 3
+tags: []
+user_id: pranavsrinivasvenkatesh

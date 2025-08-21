@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/pranavsrinivasvenkatesh/Projects/Data%20Science%20Projects/MilkQuality/mlruns/742030077469045955/6f7b3a5420b9460a8f6ed1c118142ba3/artifacts
+deleted_time: 1755722809841
+end_time: 1755722700334
+entry_point_name: ''
+experiment_id: '742030077469045955'
+lifecycle_stage: deleted
+run_id: 6f7b3a5420b9460a8f6ed1c118142ba3
+run_name: abundant-snail-895
+run_uuid: 6f7b3a5420b9460a8f6ed1c118142ba3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755722700243
+status: 3
+tags: []
+user_id: pranavsrinivasvenkatesh

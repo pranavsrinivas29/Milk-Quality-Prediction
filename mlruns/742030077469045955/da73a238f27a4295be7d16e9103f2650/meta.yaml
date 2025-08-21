@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/pranavsrinivasvenkatesh/Projects/Data%20Science%20Projects/MilkQuality/mlruns/742030077469045955/da73a238f27a4295be7d16e9103f2650/artifacts
+deleted_time: 1755722809838
+end_time: 1755722788263
+entry_point_name: ''
+experiment_id: '742030077469045955'
+lifecycle_stage: deleted
+run_id: da73a238f27a4295be7d16e9103f2650
+run_name: intrigued-kite-224
+run_uuid: da73a238f27a4295be7d16e9103f2650
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755722788233
+status: 3
+tags: []
+user_id: pranavsrinivasvenkatesh

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pranavsrinivasvenkatesh/Projects/Data%20Science%20Projects/MilkQuality/mlruns/742030077469045955/095564dc14644b019dfb00e51740baa2/artifacts
+end_time: 1755809926952
+entry_point_name: ''
+experiment_id: '742030077469045955'
+lifecycle_stage: active
+run_id: 095564dc14644b019dfb00e51740baa2
+run_name: righteous-moth-26
+run_uuid: 095564dc14644b019dfb00e51740baa2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755809926921
+status: 3
+tags: []
+user_id: pranavsrinivasvenkatesh

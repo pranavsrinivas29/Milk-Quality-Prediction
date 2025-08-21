@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/pranavsrinivasvenkatesh/Projects/Data%20Science%20Projects/MilkQuality/mlruns/742030077469045955/88a59a6a46bc4a5aad685a7391162c3a/artifacts
+deleted_time: 1755809885313
+end_time: 1755809673856
+entry_point_name: ''
+experiment_id: '742030077469045955'
+lifecycle_stage: deleted
+run_id: 88a59a6a46bc4a5aad685a7391162c3a
+run_name: clumsy-vole-729
+run_uuid: 88a59a6a46bc4a5aad685a7391162c3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755809673721
+status: 3
+tags: []
+user_id: pranavsrinivasvenkatesh

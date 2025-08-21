@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/pranavsrinivasvenkatesh/Projects/Data%20Science%20Projects/MilkQuality/mlruns/742030077469045955/d0ce9fe73819458b81339dae8cfbed4f/artifacts
+deleted_time: 1755809885322
+end_time: 1755722830627
+entry_point_name: ''
+experiment_id: '742030077469045955'
+lifecycle_stage: deleted
+run_id: d0ce9fe73819458b81339dae8cfbed4f
+run_name: welcoming-pug-510
+run_uuid: d0ce9fe73819458b81339dae8cfbed4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755722830534
+status: 3
+tags: []
+user_id: pranavsrinivasvenkatesh

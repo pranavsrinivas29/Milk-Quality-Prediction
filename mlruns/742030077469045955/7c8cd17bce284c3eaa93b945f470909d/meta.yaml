@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/pranavsrinivasvenkatesh/Projects/Data%20Science%20Projects/MilkQuality/mlruns/742030077469045955/7c8cd17bce284c3eaa93b945f470909d/artifacts
+deleted_time: 1755809885326
+end_time: 1755722830288
+entry_point_name: ''
+experiment_id: '742030077469045955'
+lifecycle_stage: deleted
+run_id: 7c8cd17bce284c3eaa93b945f470909d
+run_name: efficient-goat-783
+run_uuid: 7c8cd17bce284c3eaa93b945f470909d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755722830258
+status: 3
+tags: []
+user_id: pranavsrinivasvenkatesh

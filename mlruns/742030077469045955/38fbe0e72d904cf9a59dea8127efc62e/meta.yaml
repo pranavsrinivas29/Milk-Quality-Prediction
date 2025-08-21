@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/pranavsrinivasvenkatesh/Projects/Data%20Science%20Projects/MilkQuality/mlruns/742030077469045955/38fbe0e72d904cf9a59dea8127efc62e/artifacts
+deleted_time: 1755722809838
+end_time: 1755722788293
+entry_point_name: ''
+experiment_id: '742030077469045955'
+lifecycle_stage: deleted
+run_id: 38fbe0e72d904cf9a59dea8127efc62e
+run_name: nervous-crow-405
+run_uuid: 38fbe0e72d904cf9a59dea8127efc62e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755722788264
+status: 3
+tags: []
+user_id: pranavsrinivasvenkatesh

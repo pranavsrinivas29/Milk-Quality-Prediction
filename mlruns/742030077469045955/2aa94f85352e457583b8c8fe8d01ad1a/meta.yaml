@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/pranavsrinivasvenkatesh/Projects/Data%20Science%20Projects/MilkQuality/mlruns/742030077469045955/2aa94f85352e457583b8c8fe8d01ad1a/artifacts
+deleted_time: 1755809885317
+end_time: 1755809673720
+entry_point_name: ''
+experiment_id: '742030077469045955'
+lifecycle_stage: deleted
+run_id: 2aa94f85352e457583b8c8fe8d01ad1a
+run_name: receptive-boar-248
+run_uuid: 2aa94f85352e457583b8c8fe8d01ad1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755809673667
+status: 3
+tags: []
+user_id: pranavsrinivasvenkatesh

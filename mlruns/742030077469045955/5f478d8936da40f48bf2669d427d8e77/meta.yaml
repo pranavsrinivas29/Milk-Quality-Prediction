@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pranavsrinivasvenkatesh/Projects/Data%20Science%20Projects/MilkQuality/mlruns/742030077469045955/5f478d8936da40f48bf2669d427d8e77/artifacts
+end_time: 1755809927033
+entry_point_name: ''
+experiment_id: '742030077469045955'
+lifecycle_stage: active
+run_id: 5f478d8936da40f48bf2669d427d8e77
+run_name: burly-bee-964
+run_uuid: 5f478d8936da40f48bf2669d427d8e77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755809926983
+status: 3
+tags: []
+user_id: pranavsrinivasvenkatesh

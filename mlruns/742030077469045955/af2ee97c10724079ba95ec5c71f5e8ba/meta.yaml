@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/pranavsrinivasvenkatesh/Projects/Data%20Science%20Projects/MilkQuality/mlruns/742030077469045955/af2ee97c10724079ba95ec5c71f5e8ba/artifacts
+deleted_time: 1755809885325
+end_time: 1755722830391
+entry_point_name: ''
+experiment_id: '742030077469045955'
+lifecycle_stage: deleted
+run_id: af2ee97c10724079ba95ec5c71f5e8ba
+run_name: big-jay-295
+run_uuid: af2ee97c10724079ba95ec5c71f5e8ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755722830340
+status: 3
+tags: []
+user_id: pranavsrinivasvenkatesh

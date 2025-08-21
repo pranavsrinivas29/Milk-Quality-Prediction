@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/pranavsrinivasvenkatesh/Projects/Data%20Science%20Projects/MilkQuality/mlruns/742030077469045955/3d6abbb4d9ce4291babed94b40f7fce1/artifacts
+deleted_time: 1755722809832
+end_time: 1755722788568
+entry_point_name: ''
+experiment_id: '742030077469045955'
+lifecycle_stage: deleted
+run_id: 3d6abbb4d9ce4291babed94b40f7fce1
+run_name: indecisive-smelt-723
+run_uuid: 3d6abbb4d9ce4291babed94b40f7fce1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755722788478
+status: 3
+tags: []
+user_id: pranavsrinivasvenkatesh

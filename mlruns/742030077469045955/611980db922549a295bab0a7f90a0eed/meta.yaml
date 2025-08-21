@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/pranavsrinivasvenkatesh/Projects/Data%20Science%20Projects/MilkQuality/mlruns/742030077469045955/611980db922549a295bab0a7f90a0eed/artifacts
+deleted_time: 1755722809836
+end_time: 1755722788373
+entry_point_name: ''
+experiment_id: '742030077469045955'
+lifecycle_stage: deleted
+run_id: 611980db922549a295bab0a7f90a0eed
+run_name: nimble-crow-212
+run_uuid: 611980db922549a295bab0a7f90a0eed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755722788325
+status: 3
+tags: []
+user_id: pranavsrinivasvenkatesh

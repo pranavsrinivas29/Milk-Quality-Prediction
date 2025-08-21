@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/pranavsrinivasvenkatesh/Projects/Data%20Science%20Projects/MilkQuality/mlruns/742030077469045955/4506651a41c44453a6cfd2e3a1edcf02/artifacts
+deleted_time: 1755809885318
+end_time: 1755809673613
+entry_point_name: ''
+experiment_id: '742030077469045955'
+lifecycle_stage: deleted
+run_id: 4506651a41c44453a6cfd2e3a1edcf02
+run_name: resilient-stag-205
+run_uuid: 4506651a41c44453a6cfd2e3a1edcf02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755809673563
+status: 3
+tags: []
+user_id: pranavsrinivasvenkatesh

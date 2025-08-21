@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/pranavsrinivasvenkatesh/Projects/Data%20Science%20Projects/MilkQuality/mlruns/742030077469045955/30ef80739a464fcba6e5db133c51608f/artifacts
+deleted_time: 1755722809844
+end_time: 1755722700062
+entry_point_name: ''
+experiment_id: '742030077469045955'
+lifecycle_stage: deleted
+run_id: 30ef80739a464fcba6e5db133c51608f
+run_name: intrigued-cub-925
+run_uuid: 30ef80739a464fcba6e5db133c51608f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755722700032
+status: 3
+tags: []
+user_id: pranavsrinivasvenkatesh

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/pranavsrinivasvenkatesh/Projects/Data%20Science%20Projects/MilkQuality/mlruns/742030077469045955/5c67f0843d6140ce94ed368e99897640/artifacts
+deleted_time: 1755722809830
+end_time: 1755722788763
+entry_point_name: ''
+experiment_id: '742030077469045955'
+lifecycle_stage: deleted
+run_id: 5c67f0843d6140ce94ed368e99897640
+run_name: languid-rook-954
+run_uuid: 5c67f0843d6140ce94ed368e99897640
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755722788666
+status: 3
+tags: []
+user_id: pranavsrinivasvenkatesh

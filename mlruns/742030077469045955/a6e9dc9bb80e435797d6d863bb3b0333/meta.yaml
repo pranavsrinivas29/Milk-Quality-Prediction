@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/pranavsrinivasvenkatesh/Projects/Data%20Science%20Projects/MilkQuality/mlruns/742030077469045955/a6e9dc9bb80e435797d6d863bb3b0333/artifacts
+deleted_time: 1755809885314
+end_time: 1755809673953
+entry_point_name: ''
+experiment_id: '742030077469045955'
+lifecycle_stage: deleted
+run_id: a6e9dc9bb80e435797d6d863bb3b0333
+run_name: omniscient-hound-55
+run_uuid: a6e9dc9bb80e435797d6d863bb3b0333
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755809673857
+status: 3
+tags: []
+user_id: pranavsrinivasvenkatesh

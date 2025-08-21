@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pranavsrinivasvenkatesh/Projects/Data%20Science%20Projects/MilkQuality/mlruns/742030077469045955/ea337edaae5241749c7ddf05f0526573/artifacts
+end_time: 1755809927138
+entry_point_name: ''
+experiment_id: '742030077469045955'
+lifecycle_stage: active
+run_id: ea337edaae5241749c7ddf05f0526573
+run_name: rambunctious-elk-922
+run_uuid: ea337edaae5241749c7ddf05f0526573
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755809927086
+status: 3
+tags: []
+user_id: pranavsrinivasvenkatesh

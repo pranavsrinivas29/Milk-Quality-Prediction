@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/pranavsrinivasvenkatesh/Projects/Data%20Science%20Projects/MilkQuality/mlruns/742030077469045955/8c85e92e48584beea8929f139fe6b96f/artifacts
+deleted_time: 1755809885312
+end_time: 1755809674054
+entry_point_name: ''
+experiment_id: '742030077469045955'
+lifecycle_stage: deleted
+run_id: 8c85e92e48584beea8929f139fe6b96f
+run_name: trusting-shrew-271
+run_uuid: 8c85e92e48584beea8929f139fe6b96f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755809673953
+status: 3
+tags: []
+user_id: pranavsrinivasvenkatesh
